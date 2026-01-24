@@ -1,5 +1,5 @@
 {
-  "enabled": false,
+  "enabled": true,
   "thresholds": {
     "high": 1,
     "medium": 3,
@@ -8,7 +8,12 @@
   "metrics": {
     "contrastParagraphCap": 12,
     "emdashLinesPer": 20,
-    "shortSentenceMax": 6
+    "shortSentenceMax": 0,
+    "shortParagraphRatio": 1.0,
+    "listHeavyMax": 999,
+    "hedgeDensityMax": 1.0,
+    "hedgeCountMax": 999,
+    "repeatedOpenerMax": 999
   },
   "discourseMarkers": [
     "however",
@@ -41,6 +46,7 @@
   "rules": [
     {
       "name": "ai-writing-blacklist",
+      "enabled": false,
       "weight": 10,
       "message": "Forbidden AI-ism (see docs/authoring.md)",
       "patterns": [
@@ -74,6 +80,7 @@
     },
     {
       "name": "banned-phrase",
+      "enabled": false,
       "weight": 5,
       "message": "Banned phrase",
       "patterns": [
@@ -97,6 +104,7 @@
     },
     {
       "name": "first-person-plural",
+      "enabled": false,
       "weight": 3,
       "message": "First-person plural pronoun (prefer \"I\")",
       "patterns": [
@@ -109,6 +117,7 @@
     },
     {
       "name": "scene-setting",
+      "enabled": false,
       "weight": 4,
       "message": "Scene-setting opener",
       "paragraphStart": true,
@@ -118,6 +127,7 @@
     },
     {
       "name": "weak-opener",
+      "enabled": false,
       "weight": 2,
       "message": "Weak or vague paragraph opener",
       "paragraphStart": true,
@@ -129,6 +139,7 @@
     },
     {
       "name": "conjunction-opener",
+      "enabled": false,
       "weight": 2,
       "message": "Conjunction paragraph opener (prefer to join the previous sentence)",
       "paragraphStart": true,
@@ -138,6 +149,7 @@
     },
     {
       "name": "hedge-words",
+      "enabled": false,
       "weight": 2,
       "message": "Hedge word",
       "patterns": [
@@ -151,6 +163,7 @@
     },
     {
       "name": "intensifiers",
+      "enabled": false,
       "weight": 2,
       "message": "Empty intensifier",
       "patterns": [
@@ -164,6 +177,7 @@
     },
     {
       "name": "placeholder-nouns",
+      "enabled": false,
       "weight": 2,
       "message": "Placeholder noun",
       "patterns": [
@@ -182,6 +196,7 @@
     },
     {
       "name": "passive-voice",
+      "enabled": false,
       "weight": 3,
       "message": "Possible passive voice",
       "patterns": [
@@ -336,6 +351,7 @@
   "punctuationRules": [
     {
       "label": "ellipsis",
+      "enabled": false,
       "weight": 2,
       "pattern": "\\.{3,}|\\u2026",
       "flags": "g",
@@ -343,6 +359,7 @@
     },
     {
       "label": "question-mark",
+      "enabled": false,
       "weight": 2,
       "pattern": "\\?",
       "flags": "g",
