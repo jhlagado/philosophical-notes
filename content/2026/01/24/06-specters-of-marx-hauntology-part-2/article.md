@@ -2,7 +2,8 @@
 title: "Derrida's Spectres of Marx: Dominant Discourse and Techno-Mediatic Power"
 status: published
 summary: "This note continues Spectres of Marx at the point where Derrida names the three apparatuses of dominant discourse. It follows his critique of techno-mediatic power, the Fukuyama thesis, and the idea of democracy to come."
-- derrida
+tags:
+  - derrida
   - marx
   - hauntology
   - philosophy

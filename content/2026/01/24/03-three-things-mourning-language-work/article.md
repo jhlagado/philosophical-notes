@@ -2,7 +2,8 @@
 title: "The Three Things of the Thing: Mourning, Language, and Work in Derrida's Spectres of Marx"
 status: published
 summary: "An analysis of Derrida's decomposition of spirit into three constitutive elements: mourning, language/voice/name, and work, exploring how these structure inheritance and the spectral condition of living in disjointed time."
-- derrida
+tags:
+  - derrida
   - marx
   - hauntology
   - mourning

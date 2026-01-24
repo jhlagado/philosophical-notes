@@ -2,7 +2,8 @@
 title: "Injunctions of Marx: A Detailed Analysis of Chapter 1 from Derrida's Spectres of Marx"
 status: published
 summary: "A close reading of the first chapter of Derrida's Spectres of Marx, tracing his engagement with Shakespeare's Hamlet, the visor effect, and the logic of spectrality that grounds his concept of hauntology."
-- derrida
+tags:
+  - derrida
   - marx
   - hauntology
   - shakespeare

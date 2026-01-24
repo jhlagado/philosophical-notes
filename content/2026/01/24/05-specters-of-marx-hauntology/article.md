@@ -2,7 +2,8 @@
 title: "Derrida's Spectres of Marx: Hauntology, Inheritance, and the Conjuration Against Marxism"
 status: published
 summary: "This note tracks Derrida's argument in Spectres of Marx about money, ghosts, and the performative logic of oaths and conjuration. I wrote it as a working map of the book's claims about inheritance and the political afterlife of Marxism."
-- derrida
+tags:
+  - derrida
   - marx
   - hauntology
   - philosophy
