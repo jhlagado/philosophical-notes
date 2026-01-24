@@ -1,5 +1,5 @@
 {
-  "name": "philosphical-notes",
+  "name": "philosophical-notes",
   "private": true,
   "scripts": {
     "start": "node node_modules/scribere/scripts/start.js",
