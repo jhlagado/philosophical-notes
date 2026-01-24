@@ -1,8 +1,3 @@
----
-title: "Preface: A Contribution to the Critique of Political Economy by Karl Marx 1859"
-status: published
----
-
 # Preface: A Contribution to the Critique of Political Economy by Karl Marx 1859
 
 By John Hardy
