@@ -30,7 +30,7 @@ jobs:
       - name: Build
         run: npm run build
         env:
-          SITE_URL: https://jhlagado.github.io/philosphical-notes
+          SITE_URL: https://jhlagado.github.io/philosophical-notes
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
