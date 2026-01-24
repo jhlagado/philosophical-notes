@@ -9,11 +9,12 @@ tags:
   - shakespeare
   - philosophy
 ---
+
 # Injunctions of Marx: A Detailed Analysis of Chapter 1 from Derrida's Spectres of Marx
 
 ## Introduction: The Time Out of Joint
 
-Jacques Derrida's first chapter of *Spectres of Marx* opens with one of the most famous lines from Shakespeare's *Hamlet*: "The time is out of joint." This phrase becomes the organising principle for the chapter and for Derrida's entire engagement with Marx's legacy. The phrase captures something fundamental about temporality itself: a disjunction, a dis-adjustment, a fracture in time that cannot be repaired or synchronised.
+Jacques Derrida's first chapter of _Spectres of Marx_ opens with one of the most famous lines from Shakespeare's _Hamlet_: "The time is out of joint." This phrase becomes the organising principle for the chapter and for Derrida's entire engagement with Marx's legacy. The phrase captures something fundamental about temporality itself: a disjunction, a dis-adjustment, a fracture in time that cannot be repaired or synchronised.
 
 The chapter begins with the declaration: "Maintaining now the spectres of Marx," yet Derrida immediately problematises this "now," this present moment from which he speaks. It is a "disjointed or disadjusted now," unstable and incoherent, never allowing us to situate ourselves confidently in relation to Marx's thought— an "out of joint" now that "always risks maintaining nothing together in the assured conjunction of some context whose border would still be determinable."
 
@@ -31,13 +32,13 @@ This ambiguity leads Derrida to pose a provocative question: If the spectre is a
 
 ## The Manifesto's Opening Ghost: A Confession
 
-Over a year before delivering this lecture, Derrida had chosen to title it "Spectres of Marx." The title had been printed, was already on the poster, yet very recently he reread *The Manifesto of the Communist Party*. Then comes his confession, remarkable for its candour and its implications: "I confess it to my shame: I had not done so for decades, and that must tell one something."
+Over a year before delivering this lecture, Derrida had chosen to title it "Spectres of Marx." The title had been printed, was already on the poster, yet very recently he reread _The Manifesto of the Communist Party_. Then comes his confession, remarkable for its candour and its implications: "I confess it to my shame: I had not done so for decades, and that must tell one something."
 
-Here is Jacques Derrida, one of the most influential philosophers of the late twentieth century, preparing to deliver a major lecture on Marx at a conference titled "Whither Marxism?", admitting he had not read the *Communist Manifesto* in decades. What does this tell us? Perhaps it speaks to the status of Marx in Western intellectual culture after 1989, after the fall of the Berlin Wall and the collapse of Soviet communism. Perhaps it reveals how Marx had become simultaneously omnipresent (as reference, as spectre) and strangely absent (as actually-read text, as living engagement).
+Here is Jacques Derrida, one of the most influential philosophers of the late twentieth century, preparing to deliver a major lecture on Marx at a conference titled "Whither Marxism?", admitting he had not read the _Communist Manifesto_ in decades. What does this tell us? Perhaps it speaks to the status of Marx in Western intellectual culture after 1989, after the fall of the Berlin Wall and the collapse of Soviet communism. Perhaps it reveals how Marx had become simultaneously omnipresent (as reference, as spectre) and strangely absent (as actually-read text, as living engagement).
 
-Derrida knew, he says, that there was a ghost waiting there, "and from the opening, from the raising of the curtain." Upon rereading, he discovered (or rather, he remembered what must have been haunting his memory all along) that the first noun of the *Manifesto*, and this time in the singular, is "spectre": "A spectre is haunting Europe, the spectre of communism." In German: "Ein Gespenst geht um in Europa, das Gespenst des Kommunismus."
+Derrida knew, he says, that there was a ghost waiting there, "and from the opening, from the raising of the curtain." Upon rereading, he discovered (or rather, he remembered what must have been haunting his memory all along) that the first noun of the _Manifesto_, and this time in the singular, is "spectre": "A spectre is haunting Europe, the spectre of communism." In German: "Ein Gespenst geht um in Europa, das Gespenst des Kommunismus."
 
-The coincidence is striking but not accidental. Both *Hamlet* and the *Manifesto* open with the apparition of a spectre. Both texts begin with haunting, with the spectral, with absence made visible. Everything begins by the apparition of a ghost, or more precisely, by the waiting for this apparition, the anticipation of its coming.
+The coincidence is striking but not accidental. Both _Hamlet_ and the _Manifesto_ open with the apparition of a spectre. Both texts begin with haunting, with the spectral, with absence made visible. Everything begins by the apparition of a ghost, or more precisely, by the waiting for this apparition, the anticipation of its coming.
 
 ## Everything Begins with Waiting: The Structure of Anticipation
 
@@ -117,7 +118,7 @@ The problem here is structural, irreducible to insufficient information or inade
 
 Here is (or rather there is, over there) an unnameable or almost unnameable thing: something, between something and someone, anyone or anything, some thing, "this thing," but this thing and not any other, this thing that looks at us, that concerns us, comes to defy semantics as much as ontology, psychoanalysis as much as philosophy.
 
-The quotes are from *Hamlet* again: "Marcellus: What, ha's this thing appear'd againe tonight? Barnardo: I haue seene nothing."
+The quotes are from _Hamlet_ again: "Marcellus: What, ha's this thing appear'd againe tonight? Barnardo: I haue seene nothing."
 
 The Thing is still invisible, it is nothing visible ("I haue seene nothing") at the moment one speaks of it and in order to ask oneself if it has reappeared. It is still nothing that can be seen when one speaks of it. It is no longer anything that can be seen when Marcellus speaks of it, but it has been seen twice.
 
@@ -137,7 +138,7 @@ Even though in his ghost the King looks like himself ("As thou art to thy selfe,
 
 Derrida emphasises that we will probably abandon the phrase "visor effect" after this point, yet it will be presupposed by everything we advance on the subject of the spectre in general, in Marx and elsewhere.
 
-This is a foundational claim. The visor effect—we do not see who looks at us—structures everything that follows in *Spectres of Marx*. The spectre sees us, but we cannot see it seeing us. We cannot return its gaze. We cannot make eye contact. We cannot establish reciprocity of vision.
+This is a foundational claim. The visor effect—we do not see who looks at us—structures everything that follows in _Spectres of Marx_. The spectre sees us, but we cannot see it seeing us. We cannot return its gaze. We cannot make eye contact. We cannot establish reciprocity of vision.
 
 There is an absolute asymmetry in the gaze. Specularity (mutual reflection, reciprocal seeing, the mirror relation) is broken, interrupted, made impossible. The spectre looks at us from a position we cannot occupy, from a time we cannot synchronise with, from a place we cannot locate.
 
@@ -145,11 +146,11 @@ This asymmetry will prove crucial for understanding inheritance, law, justice, a
 
 ## Distinguishing the Spectre: The Non-Sensuous Sensuous
 
-What distinguishes the spectre or revenant from the spirit, including the spirit in the sense of ghost in general? Derrida will spell this out later based on *The German Ideology* and Marx's argument with Stirner, but here he offers preliminary distinctions:
+What distinguishes the spectre or revenant from the spirit, including the spirit in the sense of ghost in general? Derrida will spell this out later based on _The German Ideology_ and Marx's argument with Stirner, but here he offers preliminary distinctions:
 
-It is doubtless a supernatural and paradoxical phenomenality—the furtive and ungraspable visibility of the invisible, or an invisibility of a visible X. It is that "non-sensuous sensuous" of which *Capital* speaks (we will come to this) with regard to a certain exchange-value.
+It is doubtless a supernatural and paradoxical phenomenality—the furtive and ungraspable visibility of the invisible, or an invisibility of a visible X. It is that "non-sensuous sensuous" of which _Capital_ speaks (we will come to this) with regard to a certain exchange-value.
 
-This phrase, "non-sensuous sensuous," will become crucial. Derrida is pointing ahead to Marx's analysis of the commodity in *Capital*, where Marx describes how exchange-value gives commodities a strange spectral quality. They become non-sensuous (abstract, not materially present in their physical properties) yet sensuous (appearing, manifesting, taking phenomenal form).
+This phrase, "non-sensuous sensuous," will become crucial. Derrida is pointing ahead to Marx's analysis of the commodity in _Capital_, where Marx describes how exchange-value gives commodities a strange spectral quality. They become non-sensuous (abstract, not materially present in their physical properties) yet sensuous (appearing, manifesting, taking phenomenal form).
 
 The spectre is also the tangible intangibility of a proper body without flesh, but still the body of someone as someone other. We will not hasten to determine this someone other as self, subject, person, consciousness, spirit, and so forth.
 
@@ -259,10 +260,16 @@ This brings us full circle to where we began: with spectres, with the plurality 
 
 ## Conclusion: The Foundation of Inheritance and Law
 
-This opening section of Chapter 1 establishes the fundamental architecture of Derrida's reading of Marx. Everything that follows (his analysis of conjuration, his critique of Fukuyama, his discussion of messianicity without messianism, his concept of hauntology, his defence of a certain spirit of Marx) will be built on this foundation.
+This opening section of Chapter 1 establishes the fundamental architecture of Derrida's reading of Marx. Everything that follows in the book, including his analysis of conjuration, his critique of Fukuyama, his discussion of messianicity without messianism, his concept of hauntology, and his defence of a certain spirit of Marx, is built on this foundation.
 
-The logic of the spectre is the logic of inheritance. We are always already heirs, never choosing our inheritance, never standing in some neutral present from which we could decide whether to accept what has been bequeathed to us. We are always already addressed by those who came before, always already seen by eyes we cannot see, always already called to responsibility by voices we cannot verify.
+The logic of the spectre is the logic of inheritance. We do not choose our inheritance. We do not stand in some neutral present from which we can decide whether or not to accept what has been bequeathed to us. Rather, we are always already heirs, always already addressed by those who came before, always already seen by eyes we cannot see, always already called to responsibility by voices we cannot verify.
 
-The visor effect (we do not see who looks at us) is the condition of our relation to the law, to justice, to the past, to the future. We inherit through this primal scene of asymmetry, through this original disproportion, through this absolute anteriority that precedes any present we might claim to occupy.
+The visor effect, the fact that we do not see who looks at us, is the condition of our relation to the law, to justice, to the past, to the future. We inherit through this primal scene of asymmetry, through this original disproportion, through this absolute anteriority that precedes any present we might claim to occupy.
 
-Anachrony makes the law. The time is out of joint. We are born to set it right.
+Anachrony makes the law. The time is out of joint, and we are born to set it right, though as Hamlet laments, this is a "cursed spite," an impossible burden, a task that can never be completed because the disjunction is constitutive, not accidental. The time cannot be put back in joint because it was never in joint to begin with. The haunting is original.
+
+This is the condition under which we must think about Marx, about Marxism, about inheritance, about justice, about politics. We think from an unstable present, with partial visibility and uncertain identity, in the mode of being addressed by spectres we cannot fully see, cannot fully know, cannot fully verify; they see us, know us, call us to account.
+
+The injunctions of Marx come to us with this spectral structure. Derrida's title, "Injunctions of Marx," is plural, suggesting multiple, perhaps contradictory commands. We do not see clearly who commands. We cannot verify the source with certainty. We must respond anyway, in a mode of blind faith, of essentially blind submission to a secret that remains secret.
+
+This is what it means to inherit. This is what it means to be responsible. This is what it means to be subject to the law. This is the condition under which Derrida will attempt to think what remains living, what remains to come, what remains as task and promise in the spectral legacy of Marx.
