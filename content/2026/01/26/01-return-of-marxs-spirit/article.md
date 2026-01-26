@@ -1,6 +1,6 @@
 ---
 title: "The Spectre Returns: Derrida's Critique of the \"End of History\" and the Rehabilitation of Marxist Spirit"
-status: draft
+status: published
 summary: "This article traces Derrida’s critique of the “end of history” thesis and the way he reads Fukuyama and Kojève as ideological attempts to close the future. It follows his distinction between Marxist systems and the spirit of Marxist critique, and it summarises the ten crises he lists under global capitalism and the proposal of a New International."
 tags:
   - derrida
