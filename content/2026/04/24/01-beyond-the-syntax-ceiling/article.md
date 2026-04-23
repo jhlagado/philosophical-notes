@@ -28,7 +28,7 @@ The same point applies to the mind. A computer may simulate aspects of cognition
 
 The temptation to deny this difference increases with granularity. The more detailed the simulation becomes, the more natural it is to imagine that at some threshold the representation will flip into reality. This is the abstraction fallacy: treating an increasingly detailed map as though it might eventually become the territory. More detail improves representation. It does not alter the ontological status of the representation itself.
 
-What a simulation gives us is structure captured externally. What consciousness would require is interiority. No increase in formal resemblance by itself explains why there should be something it is like to be the system. Unless that transition can be justified in its own right, the computational metaphor remains a description of mind rather than an account of what mind is.
+What a simulation gives us is structure captured externally. What consciousness would require is interiority. Making the model more accurate does not explain why the system would have any inner experience. Unless that transition can be justified in its own right, the computational metaphor remains a description of mind rather than an account of what mind is.
 
 ## Computation Presupposes a Conscious Interpreter
 
