@@ -18,7 +18,7 @@ The reigning metaphor of our technological age treats the brain as biological ha
 
 This metaphor is tidy, powerful, and for that reason dangerous. It encourages a category mistake. It takes a descriptive framework that is useful for modelling certain aspects of cognition and quietly promotes it into an ontology of mind itself. The result is that we begin to treat the map as if it were the territory. A computational description of thought becomes confused with thought. A model of consciousness becomes mistaken for consciousness as such.
 
-What is at stake here is not hostility to artificial intelligence. It is precision about what AI is and what it is not. If we want to think clearly about the future of machine intelligence, we have to distinguish simulation from reality, syntax from semantics, and output from lived being. The central claim of this essay is straightforward: the gap between computation and consciousness is not just a technical gap awaiting more scale. It is a metaphysical gap grounded in the difference between modelling a process and being the kind of entity for whom anything can appear at all.
+What is at stake here is not hostility to artificial intelligence. It is precision about what AI is and what it is not. If we want to think clearly about the future of machine intelligence, we have to distinguish simulation from reality, syntax from semantics, and output from lived being. The central claim of this essay is straightforward: the gap between computation and consciousness is not just a technical gap awaiting more scale. A model can represent experience, but that does not make it a being that has experiences.
 
 ## A Simulation Never Becomes the Reality
 
